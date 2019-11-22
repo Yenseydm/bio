@@ -11,25 +11,31 @@ header {
 }
 
 h1 { 
-font color: '#eee';
-font-size: "28px";
+font color: #eee;
+font-size: 28px;
 margin: 0;
 padding: 20px;
 }
 
 h2 {
-    font-size: "24px"; 
+    font-size: 24px; 
     margin: 0 auto;
+    align: center;
 }
+
 
 #main-bio {
     float: left;
+    width: 70%;
 }
 
 #contact-info {
     float: left;
+    width: 30%;
 }
 
 #biopic {
     float: left;
+    width: 200px;
+    margin: 10px;
 }
